@@ -1,0 +1,1 @@
+download the data ALL_GNPS_positive_processed_annotated from MS2Deepscore and put it into this floder
