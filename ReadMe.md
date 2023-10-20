@@ -29,4 +29,4 @@ To get the structural similarity for the model training, we calculate the score 
 model training and embedding obtaining are introduced in this step. All the parameters for the training can be modified in this step. To get the embedding, just run `model.ipynb`.
 
 ## note
-if you find this code helpful and use it, please cite our paper. Any question about our paper, please contact with sunhaiming@hikvision.com
+if you find this code helpful and use it, please cite our paper.
